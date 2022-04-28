@@ -1,0 +1,31 @@
+{
+  "name": "coures_35h",
+  "version": "1.0.0",
+  "description": "",
+  "main": "files/home.hbs",
+  "scripts": {
+  
+    "start": "node App.js"
+  },
+  "author": "Shaddad",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "heroku": "^7.60.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.5.9",
+    "mongoose": "^6.3.0",
+    "multer": "^1.4.2",
+    "node": "^17.7.2",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
