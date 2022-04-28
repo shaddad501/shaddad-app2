@@ -4,7 +4,7 @@
   "description": "",
   "main": "files/home.hbs",
   "scripts": {
-    "heroku-postbuild": "npm install --prefix client && npm run build --prefix client" ,
+    "heroku-postbuild": "npm run build",
     "start": "node App.js"
   },
   "author": "Shaddad",
